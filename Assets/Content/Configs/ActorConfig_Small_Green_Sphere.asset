@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 65a5013deb20494488ec97187f66f6c6, type: 3}
+  m_Name: ActorConfig_Small_Green_Sphere
+  m_EditorClassIdentifier: Assembly-CSharp::Gameplay.Entity.ActorEntity.ActorConfig
+  <ActorViewPrefab>k__BackingField: {fileID: 7116106982639561442, guid: c0823948a00f6df4981087a896c31dae, type: 3}
+  <Modifiers>k__BackingField:
+  - {fileID: 11400000, guid: 5fdd33c1561838f45a1f2c5c6d0c62a5, type: 2}
+  - {fileID: 11400000, guid: 3c6055cf071583d42bccac3f00ab56b8, type: 2}
+  - {fileID: 11400000, guid: ac3d94ebcc1ed5d40930e1adfce9d2d2, type: 2}
+  <Stats>k__BackingField:
+  - <StatType>k__BackingField: 4
+    <Value>k__BackingField: 100
+  - <StatType>k__BackingField: 2
+    <Value>k__BackingField: 10
+  - <StatType>k__BackingField: 0
+    <Value>k__BackingField: 10
+  - <StatType>k__BackingField: 1
+    <Value>k__BackingField: 1
+  - <StatType>k__BackingField: 3
+    <Value>k__BackingField: 2

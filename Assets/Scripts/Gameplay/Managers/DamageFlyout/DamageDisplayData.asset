@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f65b57ea51f4c0eb35fc7ed25ce86b5, type: 3}
+  m_Name: DamageDisplayData
+  m_EditorClassIdentifier: 
+  <TextParticleSystem>k__BackingField: {fileID: 6560760056617296675, guid: 51dee555680a1c94cabd7502dda80e61, type: 3}
+  <DefaultSizeForParticle>k__BackingField: 1
+  <CharWidth>k__BackingField: 1

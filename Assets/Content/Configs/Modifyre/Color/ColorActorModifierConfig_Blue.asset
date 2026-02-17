@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c592c748b48f4c5996ae5999069646a4, type: 3}
+  m_Name: ColorActorModifierConfig_Blue
+  m_EditorClassIdentifier: Assembly-CSharp::Gameplay.Entity.Selectors.Config.ColorActorModifierConfig
+  <ModifyStats>k__BackingField:
+  - <StatType>k__BackingField: 2
+    <Value>k__BackingField: -15
+  - <StatType>k__BackingField: 1
+    <Value>k__BackingField: 4
+  - <StatType>k__BackingField: 0
+    <Value>k__BackingField: 10
+  <Color>k__BackingField:
+    <Material>k__BackingField: {fileID: 2100000, guid: fad6097d0c1d49f4d9341d62f0f9a952, type: 2}
